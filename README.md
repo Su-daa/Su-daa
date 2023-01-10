@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-2023.01.04 1일 1커밋 도전중!
 
 <!--
 **Su-daa/Su-daa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
